@@ -3,7 +3,7 @@
 |  ID  | NAME |
 | :--: | :--: |
 | 001 |  |
-| 002 | Breadhead  |
+| 002 | Breadhead |
 | 003 |  |
 | 004 |  |
 | 005 |  |
@@ -11,10 +11,10 @@
 | 007 |  |
 | 008 |  |
 | 009 |  |
-| 010 |  Nanafey |
-| 011 |  Hua |
+| 010 | Nanafey |
+| 011 | Hua |
 | 012 | Kiana Kaslana |
-| 013 |  |
+| 013 | ??? |
 | 014 | Maple Manybell |
 | 015 | Cassio Rolex |
 | 101 | Victus |
