@@ -18,8 +18,8 @@
 | 014 | Maple Manybell |
 | 015 | Cassio Rolex |
 | 101 | Victus |
-| 102 | Kumyo Kyo |
-| 103 |  |
+| 102 |  |
+| 103 | Kumyo Kyo |
 | 104 |  |
 | 105 | Amstradath |
 | 106 |  |
