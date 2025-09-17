@@ -17,6 +17,7 @@
 | 013 | ??? |
 | 014 | Maple Manybell |
 | 015 | Cassio Rolex |
+| 016 | Argenti |
 | 101 | Victus |
 | 102 |  |
 | 103 | Kumyo Kyo |
