@@ -18,6 +18,11 @@
 | 014 | Maple Manybell |
 | 015 | Cassio Rolex |
 | 016 | Argenti |
+| 019 | Olympia |
+| 020 | Nonimir |
+| 022 | Carole |
+| 025 | Shilian |
+| 027 | Otto |
 | 101 | Victus |
 | 102 |  |
 | 103 | Kumyo Kyo |
@@ -31,7 +36,7 @@
 | 111 |  |
 | 112 |  |
 | 113 |  |
-| 114 | ??? |
+| 114 | Parayaya — the Sovereign of Love and Hate |
 | 200 |  |
 | 201 |  |
 | 202 |  |
@@ -40,7 +45,7 @@
 | 205 |  |
 | 206 |  |
 | 207 |  |
-| 208 |  |
+| 208 | Bai Mei |
 | 209 |  |
 | 210 |  |
 | 211 |  |
@@ -100,4 +105,6 @@
 | 265 |  |
 | 266 |  |
 | 267 |  |
-| 268 | ??? |
+| 268 | Hungrille |
+| 269 |  |
+| 270 | ??? |
