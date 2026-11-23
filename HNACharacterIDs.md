@@ -14,18 +14,25 @@
 | 010 | Nanafey |
 | 011 | Hua |
 | 012 | Kiana Kaslana |
-| 013 | ??? |
+| 013 | Jalily Belau |
 | 014 | Maple Manybell |
 | 015 | Cassio Rolex |
 | 016 | Argenti |
+| 017 | Lyrin |
 | 019 | Olympia |
-| 020 | Nonimir |
+| 020 | Herocrates |
+| 021 | Gloria |
 | 022 | Carole |
+| 023 | Lou F. Y |
 | 025 | Shilian |
 | 027 | Otto |
+| 028 | Hyperius |
+| 029 | Red Hair Girl |
+| 030 | Juelle |
+| 032 | ??? |
 | 101 | Victus |
 | 102 |  |
-| 103 | Kumyo Kyo |
+| 103 | Kumyo Kyo / Nonimir |
 | 104 |  |
 | 105 | Amstradath |
 | 106 |  |
